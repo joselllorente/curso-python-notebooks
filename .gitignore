@@ -1,0 +1,4 @@
+#Nuevo comentario
+*.txt
+/test
+.ipynb_checkpoints
